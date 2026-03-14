@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d9488"/>
+      <stop offset="100%" style="stop-color:#2dd4bf"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="115" fill="url(#bg)"/>
+  <!-- Nurse cross symbol -->
+  <rect x="220" y="140" width="72" height="232" rx="14" fill="white" opacity="0.95"/>
+  <rect x="140" y="220" width="232" height="72" rx="14" fill="white" opacity="0.95"/>
+  <!-- Small heart -->
+  <path d="M256 380 C240 368 204 348 204 320 C204 304 216 296 230 296 C242 296 250 304 256 312 C262 304 270 296 282 296 C296 296 308 304 308 320 C308 348 272 368 256 380Z" fill="white" opacity="0.7"/>
+</svg>
